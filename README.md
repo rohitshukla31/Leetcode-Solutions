@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0078-subsets) |
 | [3731-find-missing-elements](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
