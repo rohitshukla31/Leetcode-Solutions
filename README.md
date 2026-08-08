@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0078-subsets) |
 | [3731-find-missing-elements](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0051-n-queens) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
