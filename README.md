@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
