@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0078-subsets) |
 | [3731-find-missing-elements](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [3731-find-missing-elements](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0051-n-queens) |
 ## String
 |  |
@@ -48,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
