@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1470-shuffle-the-array](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
