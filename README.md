@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1470-shuffle-the-array](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3731-find-missing-elements](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0078-subsets) |
+| [2206-divide-array-into-equal-pairs](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
