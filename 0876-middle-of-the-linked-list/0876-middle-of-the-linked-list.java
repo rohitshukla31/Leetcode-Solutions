@@ -25,13 +25,10 @@ class Solution {
         //=========Slow and fast approach========
         ListNode slow=head;
         ListNode fast=head;
-        while(fast.next != null && fast.next.next != null){
+        while(fast != null && fast.next != null){
             slow=slow.next;
             fast=fast.next.next;
         }
-        if(fast.next==null){ 
-            return slow;
-        }
-        return slow.next;
+        return slow;
     }
 }
