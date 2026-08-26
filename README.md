@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1470-shuffle-the-array](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
