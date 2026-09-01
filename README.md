@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
