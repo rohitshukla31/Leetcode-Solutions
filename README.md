@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0443-string-compression](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0443-string-compression) |
 ## Trie
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
