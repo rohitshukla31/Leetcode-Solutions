@@ -7,12 +7,15 @@ class Solution {
         while(start<=end)
         {
             if(people[start] + people[end] <= limit){
-                
+                count++;
                 start++;
+                end--;
             }
-    
-            end--;            
-            count++;
+            else{
+                count++;
+                end--;            
+            }
+                
         }
         return count;
     }
