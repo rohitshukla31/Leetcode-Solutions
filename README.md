@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0443-string-compression](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0443-string-compression) |
@@ -99,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0061-rotate-list) |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
