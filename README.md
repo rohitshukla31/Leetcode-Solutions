@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
