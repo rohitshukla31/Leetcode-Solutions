@@ -12,7 +12,7 @@ class Solution {
             if(zero <= k){
                 maxlen = Math.max(maxlen, right - left + 1);
             }
-            if(zero > k) //while(zero > k)
+            while(zero > k) //if(zero > k) 
             {
                 if(nums[left] == 0){
                     zero--;
