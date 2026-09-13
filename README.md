@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Manacher
 |  |
