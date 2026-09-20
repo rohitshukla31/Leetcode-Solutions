@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Enumeration
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2129-capitalize-the-title) |
 | [3110-score-of-a-string](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Trie
 |  |
 | ------- |
