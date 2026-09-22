@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2129-capitalize-the-title](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2129-capitalize-the-title) |
 | [3110-score-of-a-string](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Floyd's Cycle Finding Algorithm
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Manacher
 |  |
 | ------- |
