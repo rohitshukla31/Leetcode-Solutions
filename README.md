@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0881-boats-to-save-people](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [3731-find-missing-elements](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Dancing Links
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -255,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
