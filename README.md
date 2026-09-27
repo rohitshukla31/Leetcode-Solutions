@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0326-power-of-three](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
