@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Timsort
 |  |
 | ------- |
@@ -289,16 +291,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
