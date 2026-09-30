@@ -1,31 +1,71 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        //=================solved by Frequency count ==================
+        //===================optimal solution -> Sliding Window=======================
+        //Instead of creating a new frequency array for every window, maintain one window and move it forward.
+
         if(s1.length() > s2.length()){
             return false;
         }
+
+        // freq of s1
         int[] freq = new int[26];
-        for (int i = 0; i < s1.length(); i++) {
+        for(int i=0; i < s1.length(); i++){
             freq[s1.charAt(i) - 'a']++;
         }
 
-        int windSize = s1.length();
-        for (int i = 0; i < s2.length(); i++) {
-            int windIdx = 0;
-            int idx = i;
-            int[] windFreq = new int[26];
+        int windsize = s1.length();
+        int[] windFreq = new int[26];
+        // first window
+        for(int i=0; i<windsize; i++){
+            windFreq[s2.charAt(i) - 'a']++;
+        }
 
-            while (windIdx < windSize && idx < s2.length()) {
-                windFreq[s2.charAt(idx) - 'a']++;
-                windIdx++;
-                idx++;
-            }
+        if(Arrays.equals(freq, windFreq)){
+            return true;
+        }
 
-            if (Arrays.equals(freq, windFreq)) {
+        // sliding window
+        for(int i=windsize; i<s2.length(); i++){
+            // add new character
+            windFreq[s2.charAt(i) - 'a']++;
+
+            // remove old character
+            windFreq[s2.charAt(i - windsize) - 'a']--;
+
+            if(Arrays.equals(freq, windFreq)){
                 return true;
             }
         }
         return false;
+
+        // //=================solved by Frequency count ==================
+        // if(s1.length() > s2.length()){
+        //     return false;
+        // }
+        // int[] freq = new int[26];
+        // for (int i = 0; i < s1.length(); i++) {
+        //     freq[s1.charAt(i) - 'a']++;
+        // }
+
+        // int windSize = s1.length();
+        // for (int i = 0; i < s2.length(); i++) {
+        //     int windIdx = 0;
+        //     int idx = i;
+        //     int[] windFreq = new int[26];
+
+        //     while (windIdx < windSize && idx < s2.length()) {
+        //         windFreq[s2.charAt(idx) - 'a']++;
+        //         windIdx++;
+        //         idx++;
+        //     }
+
+        //     if (Arrays.equals(freq, windFreq)) {
+        //         return true;
+        //     }
+        // }
+        // return false;
+
+        //=================brute force=========================
 
         // if(s1.length() > s2.length()){
         //     return false;
