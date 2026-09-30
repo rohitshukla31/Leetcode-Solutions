@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2129-capitalize-the-title](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/2129-capitalize-the-title) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 ## Prefix Sum
 |  |
 | ------- |
