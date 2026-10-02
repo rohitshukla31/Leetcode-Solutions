@@ -1,6 +1,7 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
 
+        //===================brute force=============================
         ArrayList<List<String>> ans = new ArrayList<>();
         boolean[] visited = new boolean[strs.length];
 
