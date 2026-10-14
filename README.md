@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0890-find-and-replace-pattern](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
