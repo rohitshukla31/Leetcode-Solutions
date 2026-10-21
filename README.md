@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -401,10 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/rohitshukla31/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
