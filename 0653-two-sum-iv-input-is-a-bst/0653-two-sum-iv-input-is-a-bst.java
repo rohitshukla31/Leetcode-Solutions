@@ -32,7 +32,8 @@ class Solution {
             return;
         }
         inorder(root.left, list);
-        inorder(root.right, list);
         list.add(root.val);
+        inorder(root.right, list);
+        
     }
 }
